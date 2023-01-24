@@ -1,5 +1,4 @@
-Clean the trash
-Clean up the code
 Finish the web app
-Make lunch
-Hit the gym
+Move complete button
+Remove text after hitting enter
+Erase input text
